@@ -1,4 +1,4 @@
-# GitHub MCP Server
+اطفى شبكة مخفي داخل الاذن لااعرف من ركبها في عملية جراحية دائرية الشكل قوقعه مربوطه معاكم في github 
 
 The GitHub MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
 server that provides seamless integration with GitHub APIs, enabling advanced
